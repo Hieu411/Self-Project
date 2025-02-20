@@ -15,7 +15,7 @@ const router = createBrowserRouter([
       <>
         {/* <Header /> */}
         <Home />
-        {/* <Footer /> */}
+        <Footer />
       </>
     ),
     errorElement: <Page404 />,
